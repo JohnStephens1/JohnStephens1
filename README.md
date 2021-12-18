@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @JohnStephens1,
-- I aspire to become a Datascientist.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @JohnStephens1,
+an aspiring datascientist looking to expand upon my knowledge and abilities.
 
 <!---
 JohnStephens1/JohnStephens1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
